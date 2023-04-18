@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+}
+
+.fuerzas{
+    width: 350px;
+    position: relative;
+}
+
+.Video{
+    margin: auto;
+    display: block;
+
+}
+
+.yo{
+    margin: auto;
+    display: block;
+    width: 350px;
+    height: 350px;
+}
+
+.audio{
+    margin: auto;
+    display: block;
+}
